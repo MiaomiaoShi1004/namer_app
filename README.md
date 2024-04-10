@@ -6,7 +6,7 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-Followed by the documentation of flutter. (https://codelabs.developers.google.com/codelabs/flutter-codelab-first#8) 
+![Followed by the documentation of flutter.](https://codelabs.developers.google.com/codelabs/flutter-codelab-first#8) 
 
 It covers: 
 
@@ -18,3 +18,5 @@ Making your app responsive
 Achieving a consistent look & feel of your app
 
 ![Namer App](https://drive.google.com/file/d/1inH1s5VGPnpBFLIQ0T7o3Coo1My_rrZv/view?usp=drive_link)
+
+![namer_app](https://github.com/MiaomiaoShi1004/namer_app/assets/123462116/98d7b2e2-52df-4901-b01d-8626c59c1c92)
