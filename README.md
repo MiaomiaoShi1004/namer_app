@@ -17,6 +17,4 @@ Keeping your Flutter code organized
 Making your app responsive
 Achieving a consistent look & feel of your app
 
-![Namer App](https://drive.google.com/file/d/1inH1s5VGPnpBFLIQ0T7o3Coo1My_rrZv/view?usp=drive_link)
-
 ![namer_app](https://github.com/MiaomiaoShi1004/namer_app/assets/123462116/98d7b2e2-52df-4901-b01d-8626c59c1c92)
